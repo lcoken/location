@@ -1,0 +1,37 @@
+/* Pointer style */
+
+QTextEdit {
+    font: 10pt "Courier New";
+}
+
+QLabel, QGroupBox,
+QCheckBox, QRadioButton {
+    font: bold 12pt "Arial";
+}
+
+QSpinBox, QDoubleSpinBox, QComboBox,
+QLineEdit, QTimeEdit, QDateEdit {
+    font: 10pt "Arial";
+}
+
+QComboBox#programType {
+    font: bold 12pt "Arial";
+}
+
+QPushButton {
+    min-width: 90px;
+    min-height: 22px;
+    font: bold 12pt "Arial";
+}
+
+QTabWidget::pane {
+	border: 1px solid palette(dark);
+}
+
+QLabel#statusLabel {
+    font: 10pt "Arial";
+}
+
+QProgressBar {
+    max-height: 16px;
+}
