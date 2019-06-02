@@ -13,3 +13,4 @@ RMS是1 sigma或1倍标准差，如果结果是无偏的，概率为67%。
 CEP 乘以1.2能转换为RMS，CEP 乘以2.4能转换为2D RMS。
 
 2.5M CEP -> 3M RMS -> 6M 2D RMS
+test
